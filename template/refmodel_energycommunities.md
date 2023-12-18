@@ -35,7 +35,7 @@ Table I contains information needed by eligible parties to set up for utilising 
 |-----|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I1  | National competent authority | *Name* - Name of appointed national competent authority.<br/>*Website* - Website of appointed national competent authority.<br/>*Official contact* - Contact details for managing the mappings of national practices. |
 | I2  | National co-ordination instance | *Name* - Name of the national body intended to help ECs.<br/>*Website*<br/>*Email*<br/>*Phone*<br/>*Comments*                                                                                                                                                                                                                   |
-| I3  | ...                          | ...                                                                                                                                                                                                                   |
+| I3  | National regulatory basis for Jointly Acting Self-Consumers  | *Implemented?* Yes/No<br/>*Reference* - to national law<br/>*URL* - weblink to national law<br/>*Comments*                                                                                                                                                                                                                   |
 
 
 ### Relevant Roles
