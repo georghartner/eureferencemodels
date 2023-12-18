@@ -45,6 +45,8 @@ Table I contains information needed by eligible parties to set up for utilising 
 | I8  | Testing possibilities | Please describe a) the testing possibilities that digital platforms for Energy Communities have and b) how they can onboard to these testing facilities. |
 | I9  | Onboarding for CU Operators | Description of what needs to be done by Energy Community operators to found an EC and to connect to the relevant energy market communication. |
 | I10 | Multi-participation | Indication about how many ECs an accounting point can be part of at the same time. |
+| I11 | Self-consumption calculation responsible | List all parties responsible for calculating self-consumption values.<br/><br/>*Name*<br/>*URL*<br/>*Email*<br/>*Contact information*<br/>*Grid area responsibility* |
+| I12 | Self-consumption participation administrator | List all self-consumption participation administrators.<br/><br/>*Name*<br/>*URL*<br/>*Email*<br/>*Contact information*<br/>*Grid area responsibility* |
 
 
 ### Relevant Roles
@@ -56,7 +58,7 @@ Table I contains information needed by eligible parties to set up for utilising 
 | Metering point administrator             | Business  | ...                                                                                                                                         |
 | Metered data administrator               | Business  | ...                                                                                                                                         |
 | Self-consumption calculation responsible | Business  | A party (or parties) that are responsible for calculating self-generation and self-consumption across all members of a community.                                                                                                                                         |
-| Permission administrator                                      | Business       | ...                                                                                                                                         |
+| Self-consumption participation administrator                                      | Business       | ...                                                                                                                                         |
 | Identity service provider                                      | Business       | ...                                                                                                                                         |
 | ...                                      | ...       | ...                                                                                                                                         |
 
