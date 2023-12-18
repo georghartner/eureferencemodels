@@ -1,5 +1,7 @@
 # Reference model for *Collective Self-Consumption*
 
+..
+
 ## Context/ Whereas
 
 (1)     It was identified that it is advantageous for data sharing and the eligible party working with that data, that metering and consumption data series refer to the metering point identifier and be independent from the underlying physical metering equipment. That means, that if the underlying physical metering equipment is changed, the metering point identifier doesn’t change.
