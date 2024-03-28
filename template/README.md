@@ -44,12 +44,11 @@ Table I contains information needed by eligible parties to set up for utilising 
 |------------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Final customer                           | Business  | A party connected to the grid that purchases electricity for its own use. Please note, that this also includes the case of active customer. |
 | Energy community operator                | Business  | A party responsible for organising an Energy Community, settlement and billing. |
-| Metering point administrator             | Business  | see Commission Implementing Regulation 2023/1162. |
+| Metering point administrator             | Business  | A party responsible for administrating and making available the Metering Point characteristics, including registering the parties linked to the Metering Point. |
 | Metered data administrator               | Business  | see Commission Implementing Regulation 2023/1162 |
 | Self-consumption calculation responsible | Business  | A party responsible for calculating residual energy and the distribution of self-consumption within an Energy Community. |
-| Energy community platform operator       | Business  | ...                                                                                                                                         |
+| Energy community platform operator       | Business  | A party responsible for developing, maintaining and operating a digital platform for the operation of a single energy community or multiple energy communities. |
 | Energy community member | Business       | Member of an energy community |
-| ...                                      | ...       | ...                                                                                                                                         |
 
 
 ### Procedures
