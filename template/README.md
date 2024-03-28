@@ -39,6 +39,8 @@ Table I contains information needed by eligible parties to set up for utilising 
 | I4  | National names of type(s) of communit(ies) mapping to Article 2 (15) of Directive (EU) 2018/2001​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
 | I5  | National names of type(s) of communit(ies) mapping to Articles 16 and (22) of Directive (EU) 2018/2001​ | legal entities, whose primary objective is to provide environmental, economic or social community benefits to its members or shareholders through the development, management and operation of renewable energy projects. e.g. <ul><i>Lokale Erneuerbare Energie-Gemeinschaft</li><li>Regionale Erneuerbare Energie-Gemeinschaft</li></ul>  |
 | I6  | National names of type(s) of communit(ies) mapping to Article 2(28) 16 and 22 of Directive (EU) 2019/944​​ | legal entities, whose primary objective is to provide environmental, economic or social community benefits to its members or shareholders through the development, management and operation of renewable energy projects. e.g. <ul><li>Bürgerenergiegemeinschaft</li></ul>  |
+| I7  | Grid tariff incentivisation | Describe model(s) for grid tariff incentivisation. E.g. total reduction for jointly acting self-consumers or for local RECs.  |
+| I8  | Process for creating an energy community | Describe the process(es) to establish an EC following the model(s) described above.  |
 
 
 ### Relevant Roles
