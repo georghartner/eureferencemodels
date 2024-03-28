@@ -34,8 +34,11 @@ Table I contains information needed by eligible parties to set up for utilising 
 | ID  | Name                         | Description                                                                                                                                                                                                           |
 |-----|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | I1  | National competent authority | *Name* - Name of appointed national competent authority.<br/>*Website* - Website of appointed national competent authority.<br/>*Official contact* - Contact details for managing the mappings of national practices. |
-| I2  | ...                          | ...                                                                                                                                                                                                                   |
-| I3  | ...                          | ...                                                                                                                                                                                                                   |
+| I2  | National info point for energy communities  | *Name* - Name y.<br/>*Website* - .<br/>*Official contact* - Contact details.  |
+| I3  | Available types of collective self-consumption schemas | e.g. <ul><li>Jointly acting self-consumers</li><li>Local Renewable Energy Community</li><li>Regional Renewable Energy Community</li><li>Citizen Energy Community</li><ul>  |
+| I4  | National names of type(s) of communit(ies) mapping to Article 2 (15) of Directive (EU) 2018/2001​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
+| I4  | National names of type(s) of communit(ies) mapping to Article 2 (15) of Directive (EU) 2018/2001​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
+| I4  | National names of type(s) of communit(ies) mapping to ArtiArticle 2 (11) of Directive (EU) 2019/944​​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
 
 
 ### Relevant Roles
