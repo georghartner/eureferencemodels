@@ -43,12 +43,12 @@ Table I contains information needed by eligible parties to set up for utilising 
 | Role name                                | Role type | Role description                                                                                                                            |
 |------------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Final customer                           | Business  | A party connected to the grid that purchases electricity for its own use. Please note, that this also includes the case of active customer. |
-| Energy community operator                | Business  | ...                                                                                                                                         |
-| Metering point administrator             | Business  | ...                                                                                                                                         |
-| Metered data administrator               | Business  | ...                                                                                                                                         |
-| Self-consumption calculation responsible | Business  | ...                                                                                                                                         |
-| ...                                      | ...       | ...                                                                                                                                         |
-| ...                                      | ...       | ...                                                                                                                                         |
+| Energy community operator                | Business  | A party responsible for organising an Energy Community, settlement and billing. |
+| Metering point administrator             | Business  | see Commission Implementing Regulation 2023/1162. |
+| Metered data administrator               | Business  | see Commission Implementing Regulation 2023/1162 |
+| Self-consumption calculation responsible | Business  | A party responsible for calculating residual energy and the distribution of self-consumption within an Energy Community. |
+| Energy community platform operator       | Business  | ...                                                                                                                                         |
+| Energy community member | Business       | Member of an energy community |
 | ...                                      | ...       | ...                                                                                                                                         |
 
 
@@ -62,7 +62,7 @@ Table I contains information needed by eligible parties to set up for utilising 
 | 4   | Final customer requests accounting point to be removed from community | Final customer | Accounting point is part of EC. |
 | 5   | ECO queries if accounting point may be added to community | Energy community operator |  Energy Community is established. |
 | 6   | Final customer queries if accounting point may be added to community | Final customer |  Energy Community is established. |
-| 7   | Receive self-consumption information for Energy Community | Energy community facilitator |  Energy Community is established and accounting points are added to community. |
+| 7   | Receive self-consumption information for Energy Community | Self-consumption calculation responsible |  Energy Community is established and accounting points are added to community. |
 
 In the following, each procedure is described in steps, whilst each step represents an information exchange between two roles. Each procedure is visualised using a BPMN diagram.
 
