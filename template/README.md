@@ -62,6 +62,7 @@ Table I contains information needed by eligible parties to set up for utilising 
 | 5   | ECO queries if accounting point may be added to community | Energy community operator |  Energy Community is established. |
 | 6   | Final customer queries if accounting point may be added to community | Final customer |  Energy Community is established. |
 | 7   | Receive self-consumption information for Energy Community | Self-consumption calculation responsible |  Energy Community is established and accounting points are added to community. |
+| 8   | Query energy community master data | Energy community operator |  Energy Community is established. |
 
 In the following, each procedure is described in steps, whilst each step represents an information exchange between two roles. Each procedure is visualised using a BPMN diagram.
 
