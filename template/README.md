@@ -59,9 +59,10 @@ Table I contains information needed by eligible parties to set up for utilising 
 | 1   | Direct access to data by the final customer | Final customer | Final customer has access at the data access provider |
 | 2   | ECO requests accounting point to be added to community | Energy community operator | Energy Community is established. |
 | 3   | ECO requests accounting point to be removed from community | Energy community operator | Accounting point is part of EC. |
-| 2   | Final customer requests accounting point to be removed from community | Final customer | Accounting point is part of EC. |
-| 3   |                                             |                |                                                       |
-| 4   |                                             |                |                                                       |
+| 4   | Final customer requests accounting point to be removed from community | Final customer | Accounting point is part of EC. |
+| 5   | ECO queries if accounting point may be added to community | Energy community operator |  Energy Community is established. |
+| 6   | Final customer queries if accounting point may be added to community | Final customer |  Energy Community is established. |
+| 7   | Receive self-consumption information for Energy Community | Energy community facilitator |  Energy Community is established and accounting points are added to community. |
 
 In the following, each procedure is described in steps, whilst each step represents an information exchange between two roles. Each procedure is visualised using a BPMN diagram.
 
