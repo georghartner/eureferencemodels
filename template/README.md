@@ -57,7 +57,9 @@ Table I contains information needed by eligible parties to set up for utilising 
 | No. | Procedure Name                              | Primary Actor  | Preconditions                                         |
 |-----|---------------------------------------------|----------------|-------------------------------------------------------|
 | 1   | Direct access to data by the final customer | Final customer | Final customer has access at the data access provider |
-| 2   |                                             |                |                                                       |
+| 2   | ECO requests accounting point to be added to community | Energy community operator | Energy Community is established. |
+| 3   | ECO requests accounting point to be removed from community | Energy community operator | Accounting point is part of EC. |
+| 2   | Final customer requests accounting point to be removed from community | Final customer | Accounting point is part of EC. |
 | 3   |                                             |                |                                                       |
 | 4   |                                             |                |                                                       |
 
