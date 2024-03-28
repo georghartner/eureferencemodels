@@ -37,8 +37,8 @@ Table I contains information needed by eligible parties to set up for utilising 
 | I2  | National info point for energy communities  | *Name* - Name y.<br/>*Website* - .<br/>*Official contact* - Contact details.  |
 | I3  | Available types of collective self-consumption schemas | e.g. <ul><li>Jointly acting self-consumers</li><li>Local Renewable Energy Community</li><li>Regional Renewable Energy Community</li><li>Citizen Energy Community</li><ul>  |
 | I4  | National names of type(s) of communit(ies) mapping to Article 2 (15) of Directive (EU) 2018/2001​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
-| I4  | National names of type(s) of communit(ies) mapping to Article 2 (15) of Directive (EU) 2018/2001​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
-| I4  | National names of type(s) of communit(ies) mapping to ArtiArticle 2 (11) of Directive (EU) 2019/944​​ | e.g. Gemeinschaftliche Erzeugungsanlagen  |
+| I5  | National names of type(s) of communit(ies) mapping to Articles 16 and (22) of Directive (EU) 2018/2001​ | legal entities, whose primary objective is to provide environmental, economic or social community benefits to its members or shareholders through the development, management and operation of renewable energy projects. e.g. <ul><i>Lokale Erneuerbare Energie-Gemeinschaft</li><li>Regionale Erneuerbare Energie-Gemeinschaft</li></ul>  |
+| I6  | National names of type(s) of communit(ies) mapping to Article 2(28) 16 and 22 of Directive (EU) 2019/944​​ | legal entities, whose primary objective is to provide environmental, economic or social community benefits to its members or shareholders through the development, management and operation of renewable energy projects. e.g. <ul><li>Bürgerenergiegemeinschaft</li></ul>  |
 
 
 ### Relevant Roles
