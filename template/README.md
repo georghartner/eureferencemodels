@@ -1,4 +1,4 @@
-# Reference model for *Collective Self-consumption*
+# Reference model for *Collective Self-Consumption*
 
 ## Context/ Whereas
 
