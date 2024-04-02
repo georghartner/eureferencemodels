@@ -1,4 +1,4 @@
-# Reference model for *Use Case Family Name*
+# Reference model for *Collective Self-consumption*
 
 ## Context/ Whereas
 
