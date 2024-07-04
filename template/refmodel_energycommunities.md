@@ -1,6 +1,6 @@
 # Reference model for *Collective Self-Consumption*
 
-..
+change..
 
 ## Context/ Whereas
 
