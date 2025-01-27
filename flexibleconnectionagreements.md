@@ -60,10 +60,9 @@ Table I contains information needed by eligible parties to set up for utilising 
 
 | No. | Procedure Name                              | Primary Actor  | Preconditions                                         |
 |-----|---------------------------------------------|----------------|-------------------------------------------------------|
-| 1   | Onboarding to a flexible connection agreeent | Final customer | Final customer has access at the data access provider |
-| 2   | Offboarding from a flexible connection agreement | Final customer |                                                       |
-| 3   |                                             |                |                                                       |
-| 4   |                                             |                |                                                       |
+| 1   | Onboarding to a flexible connection agreeent | Final customer | Final customer is identified by the CSO. |
+| 2   | Offboarding from a flexible connection agreement | Final customer | The final customer is the holder of a flexible connection agreement. |
+| 3   | Issuing a flexible connection limit | Connecting system operator | The final customer and the CSO have an active flexible connection agreement. |
 
 In the following, each procedure is described in steps, whilst each step represents an information exchange between two roles. Each procedure is visualised using a BPMN diagram.
 
