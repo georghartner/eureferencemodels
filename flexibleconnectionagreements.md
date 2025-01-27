@@ -54,21 +54,14 @@ Table I contains information needed by eligible parties to set up for utilising 
 | Role name                                | Role type | Role description                                                                                                                            |
 |------------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Final customer                           | Business  | A party connected to the grid that purchases electricity for its own use. Please note, that this also includes the case of active customer. |
-| Energy community operator                | Business  | A party organising and operating an Energy community, doing the settlement of services and - potentially - running an IT infrastructure supporting the fulfillment of these responsibilities.                                                                                                                                         |
-| Metering point administrator             | Business  | ...                                                                                                                                         |
-| Metered data administrator               | Business  | ...                                                                                                                                         |
-| Self-consumption calculation responsible | Business  | A party (or parties) that are responsible for calculating self-generation and self-consumption across all members of a community.                                                                                                                                         |
-| Self-consumption participation administrator                                      | Business       | ...                                                                                                                                         |
-| Identity service provider                                      | Business       | ...                                                                                                                                         |
-| ...                                      | ...       | ...                                                                                                                                         |
-
+| Connecting system operator                | Business  | A party ... |                     
 
 ### Procedures
 
 | No. | Procedure Name                              | Primary Actor  | Preconditions                                         |
 |-----|---------------------------------------------|----------------|-------------------------------------------------------|
-| 1   | Direct access to data by the final customer | Final customer | Final customer has access at the data access provider |
-| 2   |                                             |                |                                                       |
+| 1   | Onboarding to a flexible connection agreeent | Final customer | Final customer has access at the data access provider |
+| 2   | Offboarding from a flexible connection agreement | Final customer |                                                       |
 | 3   |                                             |                |                                                       |
 | 4   |                                             |                |                                                       |
 
