@@ -71,8 +71,9 @@ In the following, each procedure is described in steps, whilst each step represe
 | Step No. | Step                                   | Step description                                                                                                     | Info producer        | Info consumer  | Information exchanged             |
 |----------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------|----------------|-----------------------------------|
 | 1.1      | Identify connecting system operator (CSO) | Final customers identify the data access provider that is responsible for their metering points under consideration. | Competent authority  | Final customer | [not relevant] |
-| 1.2      | CSO asks final customer for close-to-realtime data | CSO provides means for final customer to provide connectivity with connection agreement point data. | Final Customer | Connecting system operator | A - Consent request |
-| 1.3 | | | | |
+| 1.2      | CSO asks final customer for close-to-realtime data | CSO provides means for final customer to provide connectivity with connection agreement point data. | Connecting system operator | Final customer | A - Consent request |
+| 1.3 | Final customer accepts or rejects consent request | The final customer accepts or rejects the request from the CSO and sends back the respective information. | Final Customer | Connecting system operator | B - Consent information |
+| 1.4 | Send close-to-realtime consumption data | The final customer sends close-to-realtime consumption data to the CSO. | Final customer | Connecting system operator | C - Close-to-realtime consumption data |
 
 ![BPMN Diagram for Procedure 1 ](./figures/bpmn_procedure1.png)
 
