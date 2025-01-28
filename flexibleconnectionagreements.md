@@ -66,12 +66,13 @@ Table I contains information needed by eligible parties to set up for utilising 
 
 In the following, each procedure is described in steps, whilst each step represents an information exchange between two roles. Each procedure is visualised using a BPMN diagram.
 
-#### Procedure 1 - Access to validated historical consumption data by the final customer
+#### Procedure 1 - Onboarding to a flexible connection agreeent
 
 | Step No. | Step                                   | Step description                                                                                                     | Info producer        | Info consumer  | Information exchanged             |
 |----------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------|----------------|-----------------------------------|
-| 1.1      | Identify connecting system operator (CSO)          | Final customers identify the data access provider that is responsible for their metering points under consideration. | Competent authority  | Final customer | [not relevant]                    |
-| 1.2      | Link final customer and metering point | Final customer finds out metering point id to request data for.                                                                                                                    | Data access provider | Final customer | A - Metering point identification |
+| 1.1      | Identify connecting system operator (CSO) | Final customers identify the data access provider that is responsible for their metering points under consideration. | Competent authority  | Final customer | [not relevant] |
+| 1.2      | CSO asks final customer for close-to-realtime data | CSO provides means for final customer to provide connectivity with connection agreement point data. | Final Customer | Connecting system operator | A - Consent request |
+| 1.3 | | | | |
 
 ![BPMN Diagram for Procedure 1 ](./figures/bpmn_procedure1.png)
 
